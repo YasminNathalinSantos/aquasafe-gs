@@ -43,7 +43,7 @@ Sensor/IoT → API Java (AquaSafe) → Banco Oracle → Mobile/Web exibe alertas
 |---------|-----|
 | 🚀 **Deploy** |http://102.133.138.211:8080/swagger-ui/index.html#/|
 | 🎥 **Vídeo de Apresentação** | https://youtu.be/puDRM3U0Lxw?feature=shared|
-| 🎯 **Vídeo Pitch** | X |
+| 🎯 **Vídeo Pitch** | https://youtube.com/shorts/alVfyZpt_Fo?si=UX72gAIiatG2NKX2 |
 | 📘 **Swagger UI** | `{base_url}/swagger-ui/index.html` |
 | 📄 **API Docs JSON** | `{base_url}/v3/api-docs` |
 
